@@ -14,7 +14,7 @@
 
 ## 🎨 About Me
 I'm a **Creative Visualizer** with 6+ years of experience blending **graphics design**, **motion graphics**, and **branding strategy** into impactful visuals that speak louder than words.  
-Currently, I'm **Senior Visualizer – Branding & Communication** at [Outnet](https://outnet.com) and working with brands like **Rize Capital**, **DiziShore**, and **Sikkhon**.
+Currently, I'm **Senior Visualizer – Branding & Communication** at [Outnet](https://outnet.com) and working with brands like **Rize Capital**, **DiziShore**, **Mybiz**, **Hoorrey**, **Rocketwave**, **Maakview** & many more..
 
 ✨ I believe *design is the silent ambassador of your brand*.  
 📍 Based in Dhaka, Bangladesh.  
