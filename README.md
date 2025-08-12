@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://arifuxd.online"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:arifuxd@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:arifofficial00@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/arifuxd"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dribbble.com/arifuxd"><img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a>
 </p>
@@ -14,7 +14,7 @@
 
 ## 🎨 About Me
 I'm a **Creative Visualizer** with 6+ years of experience blending **graphics design**, **motion graphics**, and **branding strategy** into impactful visuals that speak louder than words.  
-Currently, I'm **Assistant Manager – Branding & Communication** at [Outnet](https://outnet.com) and working with brands like **Rize Capital**, **DiziShore**, and **Sikkhon**.
+Currently, I'm **Senior Visualizer – Branding & Communication** at [Outnet](https://outnet.com) and working with brands like **Rize Capital**, **DiziShore**, and **Sikkhon**.
 
 ✨ I believe *design is the silent ambassador of your brand*.  
 📍 Based in Dhaka, Bangladesh.  
